@@ -25,7 +25,7 @@
     "url": "https://github.com/kilroy-code/api-key/issues"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/kilroy-code"
+    "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
     "jasmine": "^4.5.0"
