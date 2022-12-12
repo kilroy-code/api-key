@@ -1,4 +1,4 @@
-# api-keys [![npm test](https://github.com/kilroy-code/api-key/actions/workflows/npm-test.yml/badge.svg)](https://github.com/kilroy-code/api-key/actions/workflows/npm-test.yml)
+# api-keys [![npm test](https://github.com/kilroy-code/api-keys/actions/workflows/npm-test.yml/badge.svg)](https://github.com/kilroy-code/api-keys/actions/workflows/npm-test.yml)
 
 A trivial mechanism for a browser app or test suite to get a use key for an API, without embedding keys in source code.
 

@@ -1,6 +1,6 @@
 {
-  "name": "@kilroy-code/api-key",
-  "version": "0.0.1",
+  "name": "@kilroy-code/api-keys",
+  "version": "0.0.2",
   "description": "Embodies some common means of accessing api keys in a Web page.",
   "keywords": [
     "testing",
@@ -18,11 +18,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kilroy-code/api-key.git"
+    "url": "git+https://github.com/kilroy-code/api-keys.git"
   },
-  "homepage": "https://github.com/kilroy-code/api-key#readme",
+  "homepage": "https://github.com/kilroy-code/api-keys#readme",
   "bugs": {
-    "url": "https://github.com/kilroy-code/api-key/issues"
+    "url": "https://github.com/kilroy-code/api-keys/issues"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
